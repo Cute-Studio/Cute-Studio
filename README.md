@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 我是超可爱CUTE
 
-<!--
-**Cute-Studio/Cute-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个普通的学生✨
 
-Here are some ideas to get you started:
+## 🛠️ 平时在捣鼓什么
+大部分仓库都是随手写出来的小玩意儿：
+- 各种实用小工具脚本
+- 脑洞满满的 AI 小玩具
+- 闲来无事随手上传的资料文件
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+没有宏大的开源理想，纯粹就是**想到啥写啥，写完随手存一下**。
+
+## 🎮 代码之外的快乐
+敲代码累了就泡进二次元游戏世界里：原神、崩坏：星穹铁道、明日方舟：终末地都是我的快乐源泉。
+一边写代码一边挂机刷游戏，是我的日常休闲模式。
+
+## 💡 碎碎念
+代码写得随性，项目更新全看心情。
+欢迎随便逛逛，要是代码对你有帮助那就再好不过啦！
+
+## 📬 联系方式
+Email:Cute_Studio_Happy@163.com
